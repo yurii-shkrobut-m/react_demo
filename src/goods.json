@@ -1,0 +1,15 @@
+[
+  { "id": 2, "color": "#080", "name": "Pear" },
+  { "id": 3, "color": "#00f", "name": "Mellon" },
+  { "id": 4, "color": "#f00", "name": "Ice cream" },
+  { "id": 5, "color": "#080", "name": "Apple" },
+  { "id": 6, "color": "#00f", "name": "Bread"},
+  { "id": 7, "color": "#f00", "name": "Fish" },
+  { "id": 8, "color": "#080", "name": "Honey" },
+  { "id": 1, "color": "#f00", "name": "Potato" },
+  { "id": 9, "color": "#00f", "name": "Jam" },
+  { "id": 10, "color": "#f00", "name": "Garlic" },
+  { "id": 11, "color": "#f00", "name": "Dumplings" },
+  { "id": 12, "color": "#080", "name": "Carrot" },
+  { "id": 13, "color": "#00f", "name": "Eggs" }
+]
